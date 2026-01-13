@@ -7,4 +7,7 @@ certifi
 python-dotenv
 pymongo[srv]==3.12
 pymongo
+dnspython==1.16.0
+dill
+pyaml
  ##-e .
