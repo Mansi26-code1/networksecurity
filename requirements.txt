@@ -10,4 +10,7 @@ pymongo
 dnspython==1.16.0
 dill
 pyaml
+mlflow
+dagshub
+
  ##-e .
